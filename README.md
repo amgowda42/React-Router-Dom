@@ -1,6 +1,6 @@
 # 🔁 React Router DOM Session Routing Example
 
-This repository demonstrates how to build a **structured, session-based routing system** using **React Router DOM (v6)**. It focuses on practical routing concepts including layouts, nesting, redirects, and authentication guards.
+This repository demonstrates how to build a **structured, session-based routing system** using **React Router DOM (v6)**. It focuses on practical routing concepts including layouts, nesting, redirects and relative paths.
 
 ---
 
