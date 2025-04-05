@@ -28,6 +28,8 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 );
 
 
+//The robust way of design react router in big projects from professionals.
+
 // File: src/router/AppRouter.jsx
 import { createBrowserRouter } from "react-router";
 import { routes } from "./routes.config";
